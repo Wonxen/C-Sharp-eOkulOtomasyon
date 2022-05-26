@@ -1,6 +1,6 @@
 # C-Sharp-eOkulOtomasyon
 
-* C# eOkul Otomasyon projesi içinde OleDb(Access) veri tabanı kullanarak yapılmıştır geliştirilmesi incelenmesi size aittir bilerek not kayıt ve yönetici panel kısmında 
+* C# eOkul Otomasyon projesi içinde OleDb(Access) veri tabanı kullanarak yapılmıştır geliştirilmesi incelenmesi size aittir bilerek not ekleme ve yönetici panel kısmında 
 sizin çözmeniz ve kodlama tarzını görmeniz için hatalar bıraktım onun dışında başka bir sorun yoktur keyifli kodlamalar.
 
 # Çalıştırmak İçin
