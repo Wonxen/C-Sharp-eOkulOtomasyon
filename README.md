@@ -19,5 +19,6 @@ sizin çözmeniz ve kodlama tarzını görmeniz için hatalar bıraktım onun d�
 ![image](https://cdn.discordapp.com/attachments/828589873253449838/979444797808971776/Ekran_goruntusu_2022-05-26_205101.jpg)
 ![image](https://cdn.discordapp.com/attachments/828589873253449838/979444796840095795/Ekran_goruntusu_2022-05-26_205125.jpg)
 ![image](https://cdn.discordapp.com/attachments/828589873253449838/979444877861486672/Ekran_goruntusu_2022-05-26_205215.jpg)
+![image](https://cdn.discordapp.com/attachments/828589873253449838/979444876984877136/Ekran_goruntusu_2022-05-26_205248.jpg)
 ![image](https://cdn.discordapp.com/attachments/828589873253449838/979444877240717382/Ekran_goruntusu_2022-05-26_205309.jpg)
 ![image](https://cdn.discordapp.com/attachments/828589873253449838/979444877538521138/Ekran_goruntusu_2022-05-26_205334.jpg)
