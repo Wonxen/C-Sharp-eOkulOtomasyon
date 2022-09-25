@@ -1,24 +1,23 @@
-# C-Sharp-eOkulOtomasyon
+# C# e-Okul Otomasyon
 
-* C# eOkul Otomasyon projesi içinde OleDb(Access) veri tabanı kullanarak yapılmıştır geliştirilmesi incelenmesi size aittir bilerek not ekleme ve yönetici panel kısmında 
-sizin çözmeniz ve kodlama tarzını görmeniz için hatalar bıraktım onun dışında başka bir sorun yoktur keyifli kodlamalar.
+Öncelikle herkese merhaba 👋. Hazırlamış olduğum bu e-Okul otomasyon projesini sizlerle paylaşıyorum. Paylaşma amacım sizlerin de bir şeyler öğrenip deneyip kendinizi geliştirmenizi istememdir.
 
-# Çalıştırmak İçin
-* İlk olarak bilgisayarına [Visual Studio](https://visualstudio.microsoft.com/tr/downloads/) indir.
-* Bu projeyi zip halinde indir herhangi bir klasöre zipi çıkar
+### Kurulum Aşamaları:
 
-# İletişim
-* [Discord Profilim](https://discord.com/users/545976310342746152)
-* [Mail Adresim](wonxenxd@gmail.com)
-* Herhangi bir hata bulmanız durumunda ya da yardım isteyeceğiniz zaman buralardan bana ulaşabilirsiniz.
+- [🛠 Gerekenler](#-gerekenler)
+- [📩 Kurulum](#-kurulum)
+- [🙏 Teşekkürler](#-teşekkürler)
 
-# Projeye Dair Görseller
+#### 🛠 Gerekenler
 
-![image](https://cdn.discordapp.com/attachments/828589873253449838/979444797150482482/Ekran_goruntusu_2022-05-26_204954.jpg)
-![image](https://cdn.discordapp.com/attachments/828589873253449838/979444797502808134/Ekran_goruntusu_2022-05-26_205029.jpg)
-![image](https://cdn.discordapp.com/attachments/828589873253449838/979444797808971776/Ekran_goruntusu_2022-05-26_205101.jpg)
-![image](https://cdn.discordapp.com/attachments/828589873253449838/979444796840095795/Ekran_goruntusu_2022-05-26_205125.jpg)
-![image](https://cdn.discordapp.com/attachments/828589873253449838/979444877861486672/Ekran_goruntusu_2022-05-26_205215.jpg)
-![image](https://cdn.discordapp.com/attachments/828589873253449838/979444876984877136/Ekran_goruntusu_2022-05-26_205248.jpg)
-![image](https://cdn.discordapp.com/attachments/828589873253449838/979444877240717382/Ekran_goruntusu_2022-05-26_205309.jpg)
-![image](https://cdn.discordapp.com/attachments/828589873253449838/979444877538521138/Ekran_goruntusu_2022-05-26_205334.jpg)
+İlk olarak kuracağınız proje Windows işletim sisteminde [Visual Studio](https://visualstudio.microsoft.com/tr/downloads/) kurulu olmalı. Son sürümü kurmanızda fayda var.
+
+#### 📩 Kurulum
+
+- İlk olarak projeyi kuracağınız sisteme indirin.
+- Daha sonra klasöre girip **Shift + Sağ Tık** yapıp oradan **Visual Studio ile aç** seçeneğine tıklayıp Visual Studio programını açın.
+
+#### 🙏 Teşekkürler
+
+Projemi kullanıp bana destek olan herkese teşekkür ederim. Bana [**Mail Göndererek**](mailto:emreecanbaltaa@icloud.com) ulaşabilirsiniz.
+
